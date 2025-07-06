@@ -1,16 +1,28 @@
-## Hi there 👋
+أهلاً وسهلاً! أنا ياسمين القاضي
 
-<!--
-**yasmeenalqady/YasmeenAlqady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+مرحباً بك في صفحتي على GitHub!
+أنا مطور برامج  في مجال علوم الحاسب من اليمن، شغوفة ببناء الأنظمة الذكية وتطوير تطبيقات الويب والذكاء الاصطناعي.
 
-Here are some ideas to get you started:
+👩‍💻 نبذة عني
+🎓مهندسة برمجيات
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 مهتمة بتقنيات الذكاء الاصطناعي وتطوير الواجهات
+
+💬 أحب العمل الجماعي وتبادل المعرفة
+
+📍 الموقع: اليمن
+
+🛠️ المهارات والأدوات
+لغات البرمجة:
+Python – JavaScript – HTML – CSS
+
+الأطر والتقنيات:
+React.js – Flask – Keras – TensorFlow
+
+أدوات التطوير:
+Git – GitHub – VS Code – Jupyter Notebook
+
+قواعد البيانات:
+MySQL – Oracle – SQLite
+
+
